@@ -1,0 +1,2 @@
+Voltage_curves.py 
+contains the import, filter, interpolate and plot funcitons.
